@@ -1,0 +1,10 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 8rem;
+  text-decoration: underline lightskyblue;
+  color: darkred;
+  margin-bottom: 50px;
+  font-family: Brush Script MT;
+  font-weight: bolder;
+}

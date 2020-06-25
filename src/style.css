@@ -1,0 +1,15 @@
+thead {
+    background-color: goldenrod;
+    font-size: larger;
+    color: darkorchid;
+    
+}
+
+thead button {
+    font-size: 100%;
+    border-radius: 10px;
+    background-color: forestgreen;
+    color: lightgoldenrodyellow;
+    margin-left: 5px;
+    margin-right: 5px;
+  }

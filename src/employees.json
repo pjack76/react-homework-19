@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "firstName": "Sam",
+    "lastName": "Vancouver",
+    "department": "Engineering",
+    "title": "Engineer",
+    "office": "Room 310",
+    "phone": "703-555-2310"
+  },
+  {
+    "id": 2,
+    "firstName": "Hannibal",
+    "lastName": "Pendragon",
+    "department": "Human Resources",
+    "title": "Manager",
+    "office": "Room 301",
+    "phone": "703-555-2301"
+  },
+  {
+    "id": 3,
+    "firstName": "Hope",
+    "lastName": "Full",
+    "department": "Human Resources",
+    "title": "Accountant",
+    "office": "Room 307",
+    "phone": "703-555-2307"
+  },
+  {
+    "id": 4,
+    "firstName": "Dexter",
+    "lastName": "Rightside",
+    "department": "Engineering",
+    "title": "Engineer",
+    "office": "Room 312",
+    "phone": "703-555-2312"
+  },
+  {
+    "id": 5,
+    "firstName": "Courage",
+    "lastName": "Cowart",
+    "department": "Engineering",
+    "title": "Engineer",
+    "office": "Room 303",
+    "phone": "703-555-2303"
+  },
+  {
+    "id": 6,
+    "firstName": "Doug",
+    "lastName": "Funnybone",
+    "department": "Sales",
+    "title": "Salesperson",
+    "office": "Room 309",
+    "phone": "703-555-2309"
+  },
+  {
+    "id": 7,
+    "firstName": "Bugsy",
+    "lastName": "Cappuccino",
+    "department": "Sales",
+    "title": "Salesperson",
+    "office": "Room 302",
+    "phone": "703-555-2302"
+  },
+  {
+    "id": 8,
+    "firstName": "Johnny",
+    "lastName": "Bravado",
+    "department": "Housekeeping",
+    "title": "Janitor",
+    "office": "Room 306",
+    "phone": "703-555-2306"
+  },
+  {
+    "id": 9,
+    "firstName": "Tommy",
+    "lastName": "Prickly",
+    "department": "Public Relations",
+    "title": "Public Relations Specialist",
+    "office": "Room 311",
+    "phone": "703-555-2311"
+  },
+  {
+    "id": 10,
+    "firstName": "Rocky",
+    "lastName": "Hardhead",
+    "department": "Housekeeping",
+    "title": "Janitor",
+    "office": "Room 300",
+    "phone": "703-555-2300"
+  },
+  {
+    "id": 11,
+    "firstName": "Cappy",
+    "lastName": "Platinum",
+    "department": "Public Relations",
+    "title": "Public Relations Specialist",
+    "office": "Room 304",
+    "phone": "703-555-2304"
+  },
+  {
+    "id": 12,
+    "firstName": "Iggy",
+    "lastName": "Zambazi",
+    "department": "Engineering",
+    "title": "Enginieer",
+    "office": "Room 308",
+    "phone": "703-555-2308"
+  }
+]
