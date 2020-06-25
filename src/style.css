@@ -6,10 +6,20 @@ thead {
 }
 
 thead button {
-    font-size: 100%;
+    font-size: 50%;
     border-radius: 10px;
-    background-color: forestgreen;
-    color: lightgoldenrodyellow;
-    margin-left: 5px;
-    margin-right: 5px;
-  }
+}
+
+#ascBtn{
+    margin-left: -20%;
+    margin-right: 2%;
+    margin-bottom: 2.5%;
+    background-color: powderblue;
+    color: orangered
+}
+
+#descBtn {
+    margin-left: 2%;
+    background-color: rebeccapurple;
+    color: lightblue
+}

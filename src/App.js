@@ -66,8 +66,8 @@ class App extends Component {
             <tr key = {this.props.id}>
               <th>ID</th>
               <th>First Name</th>
-              <th><button onClick={this.sortByNameAsc} value = "Name">Asc</button>Last Name
-              <button onClick={this.sortByNameDesc}>Desc</button></th>
+              <th><button onClick={this.sortByNameAsc} id = "ascBtn">Asc</button>Last Name
+              <button onClick={this.sortByNameDesc} id = "descBtn">Desc</button></th>
               <th>Department</th>
               <th>Title</th>
               <th>Office</th>
