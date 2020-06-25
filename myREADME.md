@@ -1,0 +1,3 @@
+# react-homework-19
+
+for this homework we build a react app with a table list employees. the table is sortable and filterabl by at least on column of the table. the app is then deployed to heroku. it took a while, but it now works as expected. it's by no means perfect...
